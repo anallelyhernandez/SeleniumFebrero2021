@@ -7,7 +7,8 @@ public class HolaMundo {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String name= JOptionPane.showInputDialog("¿Cuál es tu nombre? ");
-		JOptionPane.showMessageDialog(null, "Hola mundo Java soy yo de nuevo: "+ name);
+		System.out.println("Hola Mundo Java con Selenium, You can");
+		JOptionPane.showMessageDialog(null, "Hola mundo Java soy "+ name+" de nuevo: ");
 	}
 
 }
