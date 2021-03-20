@@ -12,8 +12,7 @@ public class LeerProperties {
 	
 	
 	/**
-	 * @author Sergio
-	 * @author Anallely
+	 * * @author Anallely
 	 * @date  13/03/2021
 	 * @param String
 	 * 
@@ -39,7 +38,7 @@ public class LeerProperties {
 	}
 	
 	/**
-	 * @author Sergio 
+	 * @author Anallely 
 	 * @date  13/03/2021
 	 * @param String, Properties
 	 * 
@@ -53,7 +52,7 @@ public class LeerProperties {
 	}
 	
 	/**
-	 * @author Sergio
+	 * @author Anallely
 	 * @date  06/03/2021
 	 * @param String
 	 * 
@@ -75,7 +74,7 @@ public class LeerProperties {
 	}
 	
 	/**
-	 * @author Sergio
+	 * @author Anallely
 	 * @date  06/03/2021
 	 * @param String
 	 * 
@@ -95,7 +94,7 @@ public class LeerProperties {
 	
 	
 	/**
-	 * @author Sergio
+	 * @author Anallely
 	 * @date  06/03/2021
 	 * @param String
 	 * 
